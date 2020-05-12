@@ -58,7 +58,18 @@ hr {
 
 .skill-picture{
   float: left;
-  margin-right: 80px;
+}
+
+.skill-para {
+  position: relative;
+  margin-right: 100px;
+  margin-left: 200px;
+}
+
+.skill-heading{
+  position: relative;
+  margin-right: 100px;
+  margin-left: 200px;
 }
 
 .skill-set {
